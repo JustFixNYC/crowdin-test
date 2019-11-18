@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: atuls-test-project\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2019-11-18 22:54\n"
+"PO-Revision-Date: 2019-11-18 22:56\n"
 "Last-Translator: atuljustfix\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -17,5 +17,5 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr "Halloooo"
+msgstr "This is a fix"
 
