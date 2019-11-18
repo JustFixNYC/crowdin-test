@@ -1,6 +1,6 @@
 {
     "boop": {
         "message": "hello there",
-        "description": "This is shown somewhere cool."
+        "description": "This is shown somewhere cool. Here is a URL: https://github.com/JustFixNYC/crowdin-test"
     }
 }
