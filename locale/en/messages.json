@@ -1,6 +1,10 @@
 {
     "boop": {
         "message": "hello there",
-        "description": "This is shown somewhere cool. Here is a URL: https://github.com/JustFixNYC/crowdin-test"
+        "description": "This is shown somewhere cool.\n\nHere is a URL: https://github.com/JustFixNYC/crowdin-test"
+    },
+    "You have {itemCount, plural, =0 {no items} one {1 item} other {{itemCount} issues}}.": {
+        "message": "You have {itemCount, plural, =0 {no items} one {1 item} other {{itemCount} issues}}.",
+        "description": "A sample ICU MessageFormat message taken from https://formatjs.io/guides/message-syntax/."
     }
 }
